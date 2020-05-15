@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <gasPrice>50</gasPrice>
+  <oilPrice>40</oilPrice>
+  <car>
+    <surname>Тупин</surname>
+    <brandId>3</brandId>
+    <brand>Волга</brand>
+    <gasoline>gas3</gasoline>
+    <enginePower>100</enginePower>
+    <volumeTank>60</volumeTank>
+    <remainingGas>10</remainingGas>
+    <volumeOil>4</volumeOil>
+  </car>
+  <car>
+    <surname>Тупин</surname>
+    <brandId>3</brandId>
+    <brand>Волга</brand>
+    <gasoline>gas4</gasoline>
+    <enginePower>100</enginePower>
+    <volumeTank>60</volumeTank>
+    <remainingGas>10</remainingGas>
+    <volumeOil>4</volumeOil>
+  </car>
+  <car>
+    <surname>Путин</surname>
+    <brandId>3</brandId>
+    <brand>Волга</brand>
+    <gasoline>gas5</gasoline>
+    <enginePower>100</enginePower>
+    <volumeTank>60</volumeTank>
+    <remainingGas>10</remainingGas>
+    <volumeOil>4</volumeOil>
+  </car>
+</cars>

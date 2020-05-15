@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <gasPrice>50</gasPrice>
+  <oilPrice>40</oilPrice>
+  <car>
+    <surname>Медведев</surname>
+    <brandId>1</brandId>
+    <brand>Lada</brand>
+    <gasoline>gas1</gasoline>
+    <enginePower>90</enginePower>
+    <volumeTank>50</volumeTank>
+    <remainingGas>20</remainingGas>
+    <volumeOil>3</volumeOil>
+  </car>
+  <car>
+    <surname>Беглов</surname>
+    <brandId>1</brandId>
+    <brand>Lada</brand>
+    <gasoline>gas1</gasoline>
+    <enginePower>90</enginePower>
+    <volumeTank>50</volumeTank>
+    <remainingGas>20</remainingGas>
+    <volumeOil>3</volumeOil>
+  </car>
+  <car>
+    <surname>Матвиенко</surname>
+    <brandId>2</brandId>
+    <brand>Камаз</brand>
+    <gasoline>gas2</gasoline>
+    <enginePower>180</enginePower>
+    <volumeTank>70</volumeTank>
+    <remainingGas>50</remainingGas>
+    <volumeOil>3</volumeOil>
+  </car>
+</cars>

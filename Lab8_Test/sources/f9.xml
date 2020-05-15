@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cars>
+  <gasPrice>50</gasPrice>
+  <oilPrice>40</oilPrice>
+  <car>
+    <surname>Тупин</surname>
+    <brandId>3</brandId>
+    <brand>Волга</brand>
+    <gasoline>gas3</gasoline>
+    <enginePower>100</enginePower>
+    <volumeTank>60</volumeTank>
+    <volumeOil>4</volumeOil>
+  </car>
+</cars>

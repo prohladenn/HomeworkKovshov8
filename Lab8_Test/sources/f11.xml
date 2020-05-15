@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <car>
+    <surname>1</surname>
+    <brandId>2</brandId>
+    <brand>3</brand>
+    <gasoline>4</gasoline>
+    <enginePower>5</enginePower>
+    <volumeTank>6</volumeTank>
+    <remainingGas>7</remainingGas>
+    <volumeOil>8</volumeOil>
+  </car>
+</cars>
